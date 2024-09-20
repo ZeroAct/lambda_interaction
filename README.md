@@ -1,5 +1,5 @@
-# Lambda Interaction
+# Lambda Ops
 ## Description
 <img src="assets/lambda_interaction_baseline.png" />
 
-Resister your great function for everybody to use.
+I'm thinking about something cool that i think it is cool 😎
